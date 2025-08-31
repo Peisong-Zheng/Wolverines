@@ -1,6 +1,0 @@
-
-		begin
-      f = addfile("/Users/pz/VScode/Wolverines/NCdata/2eabc8601945b8f9214ef2eab184ddce.nc","r")
-      print(f)
-		end
-    
